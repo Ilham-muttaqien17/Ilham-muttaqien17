@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ilham Muttaqien</h1>
 <h3 align="center">A passionate full stack developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **NodeJS, NextJS, Laravel**
+- 🌱 I’m currently learning **Nuxtjs, Typescript**
 
 - 📫 How to reach me **imuttaqien17@gmail.com**
 
